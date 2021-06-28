@@ -1,6 +1,6 @@
 # Ristorante Con Fusion Coursera
 
-A sample restaurant website made by using simple React,Css,Sass, Redux. This is the final project for the coursera course Front-End Web Development with React by The Hong Kong University of Science and Technology
+A sample restaurant website made by using simple React, Css, Sass, Redux. This is the final project for the coursera course Front-End Web Development with React by The Hong Kong University of Science and Technology.
 
 -   Project involved Creating the UI for a restaurant Using React and Redux
 -   -   Integrating various packages like
